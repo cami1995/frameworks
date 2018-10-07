@@ -1,0 +1,32 @@
+body{
+  font-family: 'Dosis', sans-serif;
+}
+.encabezado{
+  background: rgba(120, 147, 165, 0.97);
+  border-radius: 10px
+}
+.redes{
+  margin-top: 20px;
+}
+.redes img{
+    box-shadow: 3px 2px 1px black ;
+}
+nav{
+  margin-top: 10px;
+  background: rgba(7, 30, 60, 0.8);
+}
+
+.art{
+  margin-top: 20px;
+}
+.images{
+
+  margin: auto;
+  padding: 40px 0px 20px 0px;
+}
+.art a{
+  background: rgba(7, 30, 60, 0.7);
+  color: black;
+  font-size: 1.3em;
+  font-weight: bold;
+}
