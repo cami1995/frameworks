@@ -11,3 +11,17 @@ body{
 .fondo{
   background: rgba(196, 156, 82, 0.8);
 }
+.articulo{
+  background: rgba(95, 44, 7, 0.8);
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.button{
+  border-radius: 10px;
+  margin: 5px;
+}
+.favoritos{
+  width: 100%;
+  height: 100px
+}
