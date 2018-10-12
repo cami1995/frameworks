@@ -37,6 +37,11 @@ height: 50%
 .fotos{
 width: 100%
 }
+.autor{
+  margin-top: 20px;
+  width: 80%;
+}
+
 @media all and (max-width: 690px) {
   .titulo{
     color: black;
