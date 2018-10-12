@@ -1,0 +1,53 @@
+body{
+
+background-image: url(../img/fondo1.jpg);
+background-attachment: fixed;
+background-position:  center 100px;
+background-size: cover;
+width: 100%;
+
+
+}
+.prueba{
+
+
+
+
+  position: fixed;
+  width:100%;
+  height:25%;
+
+}
+.contenedor
+{
+  position: absolute;
+  margin-top: 0px;
+  width:100%;
+  height:auto;
+}
+.menu{
+  margin: 15px;
+}
+ .perfil{
+   border: 4px solid #7b1fa2;
+   border-radius: 10px;
+ }
+ .titulo{
+   padding-top: 60px;
+ }
+ .redes{
+   width: 60%;
+   margin-left: 20px;
+
+ }
+ .galeria{
+   height: 50%
+ }
+ .fotos{
+   width: 100%
+ }
+ .autor{
+   margin-top: 20px;
+   width: 80%;
+
+ }
